@@ -1,0 +1,17 @@
+/*.personal_data{
+    background-image: url(https://th.bing.com/th/id/R.da3bcae2ba74d0b96fb7b9e811ec7559?rik=HWqavyMLYl73Lw&pid=ImgRaw&r=0);
+    background-size: contain;
+    background-repeat: no-repeat;
+}*/
+
+personal_data h1{
+    font-size: 2rem;
+    color: blue;
+
+    border-width: 3px;
+    border-style: solid;
+    border-color: green;
+    background-color: red;
+    background-image: url(https://i.pinimg.com/originals/69/12/0f/69120f098bbad51079ed14884673b211.jpg);
+
+}

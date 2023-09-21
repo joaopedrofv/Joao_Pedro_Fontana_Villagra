@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Inclusive+Sans&family=Roboto:wght@300&display=swap');
+@import url("personal_data.css");
+@import url("list.css");
+
+body {
+    font-family: "Roboto", sans-serif;
+    font-size: 62.5%;
+    background-image: url(https://th.bing.com/th/id/R.021e0c7cb2b63683c8ad21ae8584b629?rik=vZSiN9pDccUcSw&pid=ImgRaw&r=0);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
